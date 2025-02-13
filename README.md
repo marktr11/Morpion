@@ -1,6 +1,6 @@
 # Jeu de Morpion en Java
 
-![Morpion Icon](https://play-lh.googleusercontent.com/LBERj-6YHlRzpaZEJQwNZAtEIIeIUs-u7lnsamqsUrPfXYwOSrViZ6P-7A3dASR9N2U) 
+<img src="https://play-lh.googleusercontent.com/LBERj-6YHlRzpaZEJQwNZAtEIIeIUs-u7lnsamqsUrPfXYwOSrViZ6P-7A3dASR9N2U" width="50%">
 
 ## Description du projet
 
