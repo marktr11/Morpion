@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\minhm\OneDrive - Université Côte d'Azur\BUT SD\BUT 24-25\ProgS3_Projet\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-2927218766.index
-292313406.index
